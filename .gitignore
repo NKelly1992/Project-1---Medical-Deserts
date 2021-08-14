@@ -9,6 +9,9 @@ api_keys.py
 # C extensions
 *.so
 
+#API_keys
+api_keys.py
+
 # Distribution / packaging
 .Python
 build/
